@@ -1,0 +1,7 @@
+org\aservellon\springcloud\msvcusuarios\repositories\UsuarioRepository.class
+org\aservellon\springcloud\msvcusuarios\models\entity\Usuario.class
+org\aservellon\springcloud\msvcusuarios\services\UsuarioServiceImpl.class
+org\aservellon\springcloud\msvcusuarios\MsvcUsuariosApplication.class
+org\aservellon\springcloud\msvcusuarios\services\UsuarioService.class
+org\aservellon\springcloud\msvcusuarios\controllers\UsuarioController.class
+org\aservellon\springcloud\msvcusuarios\clients\CursoClienteRest.class
