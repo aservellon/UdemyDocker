@@ -118,7 +118,7 @@ public class CursoControllers {
     }
 
 //Esta parte es para Crear, la copiamos de asignar y la modificamos con mucho cuidado//
-
+//Prueba de git//
     private static ResponseEntity<Map<String, String>> validar(BindingResult result) {
         Map<String, String> errores = new HashMap<>();
         result.getFieldErrors().forEach(err ->{
